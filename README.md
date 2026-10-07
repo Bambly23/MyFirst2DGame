@@ -19,7 +19,9 @@
 * **Система контроля версий:** Git / GitHub
 
 ## 📸 Скриншоты игрового процесса:
-<img width="1440" height="2560" alt="capture_20260407231401226 (1)" src="https://github.com/user-attachments/assets/be783bf0-5885-4d11-a5e2-ab42919508cf" />
-<img width="1439" height="2558" alt="capture_20260407231415744 (1)" src="https://github.com/user-attachments/assets/09e4adaf-7687-4997-aa38-0528175e4a3e" />
-<img width="1439" height="2558" alt="capture_20260407231453535 (1)" src="https://github.com/user-attachments/assets/8ef6e261-f766-4014-99e2-70e69e423846" />
-<img width="1440" height="2560" alt="capture_20260407231432588 (1)" src="https://github.com/user-attachments/assets/0d4fa718-3954-4c9d-8d4e-0bf161a3db54" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/be783bf0-5885-4d11-a5e2-ab42919508cf" width="260" alt="Game Screenshot">
+  <img src="https://github.com/user-attachments/assets/09e4adaf-7687-4997-aa38-0528175e4a3e" width="260" alt="Game Screenshot">
+  <img src="https://github.com/user-attachments/assets/8ef6e261-f766-4014-99e2-70e69e423846" width="260" alt="Game Screenshot">
+  <img src="https://github.com/user-attachments/assets/0d4fa718-3954-4c9d-8d4e-0bf161a3db54" width="260" alt="Game Screenshot">
+</p>
