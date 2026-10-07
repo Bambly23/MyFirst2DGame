@@ -1,0 +1,35 @@
+{
+    "intExample": 5,
+    "strExample": "Hello!",
+    "boolExample": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "idSave": 110,
+    "Score": 900,
+    "CostInt": [
+        16000,
+        10000
+    ],
+    "ClickScore": 44,
+    "CostBonus": [
+        2
+    ],
+    "Achievement1Max": 277,
+    "isAchievement1": true,
+    "isAchievement2": false,
+    "isAchievement2Get": true,
+    "isAchievement3": false,
+    "isAchievement3Get": true,
+    "isAchievement4Completed": false,
+    "isAchievement4RewardTaken": false,
+    "isAchievement5Completed": false,
+    "isAchievement5RewardTaken": false,
+    "isAchievement6Completed": false,
+    "isAchievement6RewardTaken": false,
+    "petLevel": 2,
+    "petXP": 5977,
+    "petBonus": 4
+}

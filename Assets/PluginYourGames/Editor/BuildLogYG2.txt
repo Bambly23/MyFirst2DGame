@@ -1,0 +1,3 @@
+﻿Build path: D:/GameDev/Билд
+Build number: 28
+PluginYG version: 2.0091
